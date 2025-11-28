@@ -10,6 +10,7 @@ public class SubApp {
     }
 
     public static int sub(int a, int b) {
+        int result = a - b;
         return a - b;
     }
 }
